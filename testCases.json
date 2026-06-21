@@ -1,0 +1,14 @@
+[
+  {
+    "input": "4\nvellore\nkrishnagiri\nhosur\nbangalore\n100 120 60 50\nvellore hosur",
+    "output": "270.0"
+  },
+  {
+    "input": "4\nvellore\nkrishnagiri\nhosur\nbangalore\n100 120 60 50\nkrishnagiri bangalore",
+    "output": "165.0"
+  },
+  {
+    "input": "4\nvellore\nkrishnagiri\nhosur\nbangalore\n100 120 60 50\nchennai hosur",
+    "output": "420.0"
+  }
+]
